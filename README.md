@@ -9,6 +9,8 @@
 
 AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro blog theme. This theme is designed and crafted based on [my personal blog](https://satnaing.dev/blog).
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/danmestas/wuwei?utm_source=oss&utm_medium=github&utm_campaign=danmestas%2Fwuwei&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 Read [the blog posts](https://astro-paper.pages.dev/posts/) or check [the README Documentation Section](#-documentation) for more info.
 
 ## 🔥 Features
